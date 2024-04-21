@@ -1517,9 +1517,10 @@ div.image-container2-sub-div7 {
 		display: flex;
 		margin: 0 auto;
 		width: 95%;
-		font-size: 1.8rem;
+		font-size: 2rem;
 		margin-left: 0;
 		margin-right: 0;
+		margin-bottom: 1rem;
 	}
 
 	.nav-links {
@@ -1750,7 +1751,7 @@ div.image-container2-sub-div7 {
 		padding-right: 0;
 		padding-left: 0;
 		margin-bottom: 0;
-		margin-left: 1.5rem;
+		margin-left: 0;
 	}
 
 	.nav-container h2 {
@@ -1760,6 +1761,7 @@ div.image-container2-sub-div7 {
 		font-size: 1.8rem;
 		margin-left: 0;
 		margin-right: 0;
+		margin-bottom: 1rem;
 	}
 
 	.nav-links {
@@ -1839,7 +1841,7 @@ div.image-container2-sub-div7 {
 		border-top: 8px solid #c70101; /* Set the color and thickness of the border */
 		bottom: 160px; /* Adjust the position of the border */
 		height: 200px; /* Adjust the thickness of the border */
-		left: 9%;
+		left: 7%;
 		width: 30%; /* Adjust this to control the width of the border */
 	}
 
@@ -1989,7 +1991,7 @@ div.image-container2-sub-div7 {
 		padding-right: 0;
 		padding-left: 0;
 		margin-bottom: 0;
-		margin-left: 1.5rem;
+		margin-left: 0;
 	}
 
 	.nav-container h2 {
@@ -1999,6 +2001,7 @@ div.image-container2-sub-div7 {
 		font-size: 1.8rem;
 		margin-left: 0;
 		margin-right: 0;
+		margin-bottom: 1rem;
 	}
 
 	.nav-links {
@@ -2006,7 +2009,7 @@ div.image-container2-sub-div7 {
 		flex-direction: column;
 		align-items: flex-start;
 		column-gap: 2rem;
-		margin-left: 2rem;
+		padding-left: 0;
 	}
 
 	.nav-links ul {
@@ -2078,7 +2081,7 @@ div.image-container2-sub-div7 {
 		border-top: 8px solid #c70101; /* Set the color and thickness of the border */
 		bottom: 160px; /* Adjust the position of the border */
 		height: 230px; /* Adjust the thickness of the border */
-		left: 9%;
+		left: 7%;
 		width: 30%; /* Adjust this to control the width of the border */
 	}
 
