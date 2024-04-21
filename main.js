@@ -1,27 +1,26 @@
 // Imports to allow JS file use the css attributes
-import './media-query.css';
 import './style.css';
 
 // Front end view of Technology Academies of Northeast Nebraska
 // Robot Competition trophies
 const images = [
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
-	'../public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
+	'./public/trophy.jpg',
 ];
 
 // Front view for NECC/WSC Robotics College Division trophies

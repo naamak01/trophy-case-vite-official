@@ -113,7 +113,7 @@ main {
 }
 
 .main-slider-container h2 {
-	font-size: 2.2rem;
+	font-size: 2.4rem;
 	margin-bottom: 1rem;
 	padding-bottom: 2rem;
 	padding-top: 2rem;
@@ -125,10 +125,10 @@ main {
 	position: absolute;
 	display: inline-block;
 	border-top: 6px solid #c70101; /* Set the color and thickness of the border */
-	bottom: 300px; /* Adjust the position of the border */
+	bottom: 340px; /* Adjust the position of the border */
 	height: 230px; /* Adjust the thickness of the border */
 	left: 28.5%;
-	width: 12%; /* Adjust this to control the width of the border */
+	width: 20%; /* Adjust this to control the width of the border */
 }
 
 .image-slider {
@@ -1749,7 +1749,7 @@ div.image-container2-sub-div7 {
 	.title {
 		margin-left: 1rem;
 		height: 46vh;
-		padding-top: 15rem;
+		padding-top: 7rem;
 	}
 
 	.title h1 {
@@ -1870,11 +1870,11 @@ div.image-container2-sub-div7 {
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
 		row-gap: 0;
-		column-gap: 0;
+		column-gap: 1rem;
 		margin-top: 1rem;
 		margin: 0 auto;
 		width: 93%;
-		margin-left: 0;
+		margin-left: 1rem;
 	}
 
 	#image-container img,
@@ -1884,10 +1884,11 @@ div.image-container2-sub-div7 {
 	#image-container5 img,
 	#image-container6 img,
 	#image-container7 img {
-		width: 180px;
-		height: 180px;
+		width: 200px;
+		height: 290px;
 		border-radius: 5px;
 		filter: brightness(90%);
+		object-fit: fill;
 	}
 
 	/* PAGE NAVIGATIONS AT THE BUTTON OF WEBSITE */
@@ -1969,11 +1970,11 @@ div.image-container2-sub-div7 {
 	.title {
 		margin-left: 1rem;
 		height: 46vh;
-		padding-top: 15rem;
+		padding-top: 7rem;
 	}
 
 	.title h1 {
-		font-size: 4rem;
+		font-size: 3.6rem;
 	}
 
 	.title h2 {
@@ -2083,6 +2084,7 @@ div.image-container2-sub-div7 {
 		row-gap: 0;
 		column-gap: 0.5rem;
 		margin-top: 1rem;
+		margin-left: 0.3rem;
 	}
 
 	#image-container img,
@@ -2092,10 +2094,11 @@ div.image-container2-sub-div7 {
 	#image-container5 img,
 	#image-container6 img,
 	#image-container7 img {
-		width: 175px;
-		height: 180px;
+		width: 200px;
+		height: 290px;
 		border-radius: 5px;
 		filter: brightness(90%);
+		object-fit: fill;
 	}
 
 	/* PAGE NAVIGATIONS AT THE BUTTON OF WEBSITE */

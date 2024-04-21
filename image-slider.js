@@ -1,6 +1,5 @@
 // Imports to allow JS file use the css attributes
 
-import './media-query.css';
 import './style.css';
 
 // Setting a counter for the slider

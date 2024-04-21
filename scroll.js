@@ -1,5 +1,4 @@
 // Imports to allow JS file use the css attributes
-import './media-query.css';
 import './style.css';
 
 // Targeting animals for picture scrolling (Fade-in)
