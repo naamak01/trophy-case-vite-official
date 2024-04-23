@@ -2030,7 +2030,7 @@ div.image-container2-sub-div7 {
 
 	.title {
 		margin-left: 1rem;
-		height: 48vh;
+		height: 55vh;
 		padding-top: 7rem;
 	}
 
@@ -2065,7 +2065,7 @@ div.image-container2-sub-div7 {
 		position: absolute;
 		display: inline-block;
 		border-top: 8px solid #c70101; /* Set the color and thickness of the border */
-		bottom: 160px; /* Adjust the position of the border */
+		bottom: 130px; /* Adjust the position of the border */
 		height: 230px; /* Adjust the thickness of the border */
 		left: 7%;
 		width: 30%; /* Adjust this to control the width of the border */
@@ -2153,7 +2153,7 @@ div.image-container2-sub-div7 {
 	#image-container5 img,
 	#image-container6 img,
 	#image-container7 img {
-		width: 200px;
+		width: 185px;
 		height: 290px;
 		border-radius: 5px;
 	}
@@ -2178,9 +2178,9 @@ div.image-container2-sub-div7 {
 	/* PAGE NAVIGATIONS AT THE BUTTON OF WEBSITE */
 	.page-nav {
 		margin: 0 auto;
-		width: 90%;
-		height: 15vh;
-		padding-top: 4rem;
+		width: 95%;
+		height: 19vh;
+		padding-top: 2rem;
 	}
 
 	.next {
