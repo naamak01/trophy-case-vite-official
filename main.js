@@ -64,34 +64,42 @@ const images3 = [
 
 // Front view for Tann Robotics Competition Trophies
 const images4 = [
-	'/guy-see-me.jpg',
-	'/guy-see-me.jpg',
-	'/guy-see-me.jpg',
-	'/guy-see-me.jpg',
-	'/guy-see-me.jpg',
-	'/guy-see-me.jpg',
+	'/tann-robotics/IMG_5941.JPG',
+	'/tann-robotics/IMG_5949.JPG',
+	'/tann-robotics/IMG_5951.JPG',
+	'/tann-robotics/IMG_5953.JPG',
+	'/tann-robotics/IMG_5974.JPG',
+	'/tann-robotics/IMG_6039.JPG',
 ];
 
 // Front view for NECC/WSC Open Division Robotics
 const images5 = [
-	'/pexels-anna.jpg',
-	'/pexels-anna.jpg',
-	'/pexels-anna.jpg',
-	'/pexels-anna.jpg',
-	'/pexels-anna.jpg',
+	'/necc-wsc-robotics-open-division/IMG_5939.JPG',
+	'/necc-wsc-robotics-open-division/IMG_5945.JPG',
+	'/necc-wsc-robotics-open-division/IMG_5999.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6018.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6020.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6022.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6024.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6026.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6051.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6067.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6069.JPG',
 ];
 
 // Front view for NECC/WSC Robotics Contest
 const images6 = [
-	'/trophy-golf-guy.jpg',
-	'/trophy-golf-guy.jpg',
-	'/trophy-golf-guy.jpg',
-	'/trophy-golf-guy.jpg',
-	'/trophy-golf-guy.jpg',
+	'/necc-wsc-robotics-contest/IMG_5905.JPG',
+	'/necc-wsc-robotics-contest/IMG_5907.JPG',
+	'/necc-wsc-robotics-contest/IMG_5914.JPG',
+	'/necc-wsc-robotics-contest/IMG_5917.JPG',
+	'/necc-wsc-robotics-contest/IMG_5976.JPG',
+	'/necc-wsc-robotics-contest/IMG_5978.JPG',
+	'/necc-wsc-robotics-contest/IMG_6002.JPG',
 ];
 
 // Front view for UPE Chili Cook Off
-const images7 = ['/golf-trophy.jpg', '/golf-trophy.jpg'];
+const images7 = ['/upe-chili/IMG_5968.JPG', '/upe-chili/IMG_5970.JPG'];
 
 // Side and back image view of Technology Academies of Northeast Nebraska
 // Robot Competition trophies
@@ -156,34 +164,42 @@ const altImages3 = [
 
 // Side and back image view of Tann Robotics Competition Trophies
 const altImages4 = [
-	'/guy-see-mee-applaud.jpg',
-	'/guy-see-mee-applaud.jpg',
-	'/guy-see-mee-applaud.jpg',
-	'/guy-see-mee-applaud.jpg',
-	'/guy-see-mee-applaud.jpg',
-	'/guy-see-mee-applaud.jpg',
+	'/tann-robotics/IMG_5942.JPG',
+	'/tann-robotics/IMG_5950.JPG',
+	'/tann-robotics/IMG_5952.JPG',
+	'/tann-robotics/IMG_5954.JPG',
+	'/tann-robotics/IMG_5975.JPG',
+	'/tann-robotics/IMG_6040.JPG',
 ];
 
 // Side and back image view of NECC/WSC Open Division Robotics
 const altImages5 = [
-	'/pexels-anna-happy.jpg',
-	'/pexels-anna-happy.jpg',
-	'/pexels-anna-happy.jpg',
-	'/pexels-anna-happy.jpg',
-	'/pexels-anna-happy.jpg',
+	'/necc-wsc-robotics-open-division/IMG_5940.JPG',
+	'/necc-wsc-robotics-open-division/IMG_5946.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6001.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6019.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6021.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6023.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6025.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6027.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6052.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6068.JPG',
+	'/necc-wsc-robotics-open-division/IMG_6070.JPG',
 ];
 
 // Side and back image view of NECC/WSC Robotics Contest
 const altImages6 = [
-	'/trophy-golf.jpg',
-	'/trophy-golf.jpg',
-	'/trophy-golf.jpg',
-	'/trophy-golf.jpg',
-	'/trophy-golf.jpg',
+	'/necc-wsc-robotics-contest/IMG_5906.JPG',
+	'/necc-wsc-robotics-contest/IMG_5908.JPG',
+	'/necc-wsc-robotics-contest/IMG_5915.JPG',
+	'/necc-wsc-robotics-contest/IMG_5918.JPG',
+	'/necc-wsc-robotics-contest/IMG_5977.JPG',
+	'/necc-wsc-robotics-contest/IMG_5979.JPG',
+	'/necc-wsc-robotics-contest/IMG_6003.JPG',
 ];
 
 // Side and back image view of UPE Chili Cook Off
-const altImages7 = ['/golf-trophy-girl.jpg', '/golf-trophy-girl.jpg'];
+const altImages7 = ['/upe-chili/IMG_5969.JPG', '/upe-chili/IMG_5971.JPG'];
 
 // Array of alt descriptions for each image NECC/WSC Robotics Contest
 const altDescriptions = [
@@ -247,31 +263,42 @@ const altDescriptions3 = [
 
 // Array of alt descriptions for each Tann Robotics Competition Trophies
 const altDescriptions4 = [
-	'Gold Trophy',
-	'Silver Trophy',
-	'Bronze Trophy',
-	'Platinum Trophy',
-	'Diamond Trophy',
-	'Ruby Trophy',
+	'TANN Robotics Competition for 2007-2008. 2nd place. Competition #3.',
+	'TANN Robotics Competition for 2007-2008. 2nd place. Competition #2',
+	'TANN Robotics Competition for 2007-2008. 2nd place. Competition #1',
+	'TANN Robotics Competition for 2007-2008.3rd place. Competition #2',
+	'TANN Robotics Competition for 2007 Open Division. 1st place.',
+	'TANN Academies of Northeast Nebraska Robot. Champions.',
 ];
 // Array of alt descriptions for each NECC/WSC Open Division Robotics
 const altDescriptions5 = [
-	'Gold Trophy',
-	'Silver Trophy',
-	'Bronze Trophy',
-	'Platinum Trophy',
-	'Diamond Trophy',
+	'2012-2013 NECC/WSC Robotics Open Division. Champions.',
+	'2012-2013 NECC/WSC Robotics Open Division. 3rd place.',
+	'2012-2013 NECC/WSC Robotics Open Division. Champions.',
+	'NECC/WSC Robotics Open Division. 2nd place.',
+	'NECC/WSC Robotics Open Division. 1st place.',
+	'NECC/WSC Robotics Open Division. 1st place.',
+	'NECC/WSC Robotics Open Division. 2nd place.',
+	'NECC/WSC Robotics Open Division. 3rd place.',
+	'2012-2013 NECC/WSC Robotics Open Division. 3rd place.',
+	'NECC/WSC Robotics Open Division. 3rd place.',
+	'NECC/WSC Robotics Open Division. 2nd place.',
 ];
 // Array of alt descriptions for each NECC/WSC Robotics Contest
 const altDescriptions6 = [
-	'Gold Trophy',
-	'Silver Trophy',
-	'Bronze Trophy',
-	'Platinum Trophy',
-	'Diamond Trophy',
+	'2014-2015 NECC/WSC Robotics contest. 3rd place.',
+	'2014-2015 NECC/WSC Robotics contest. 1st place.',
+	'2014-2015 NECC/WSC Season Robotics contest. 2nd place.',
+	'2014-2015 NECC/WSC Season Robotics contest. 3rd place.',
+	'2012-2013 NECC/WSC Robotics. 2nd place.',
+	'2012-2013 NECC/WSC Robotics. 1st place.',
+	'2011-2012 NECC/WSC Robotics. Champions.',
 ];
 // Array of alt descriptions for each UPE Chili Cook Off
-const altDescriptions7 = ['Gold Trophy', 'Silver Trophy'];
+const altDescriptions7 = [
+	'UPE Chili Cook-Off in 2016 2nd place',
+	'UPE Chili Cook-Off in 2016 1st place',
+];
 
 // Array of information for date Technology Academies of Northeast
 //Nebraska Robot Competition trophies
@@ -337,37 +364,46 @@ const hoverDescriptions3 = [
 // Array information for date of event
 // for Tann Robotics Competition Trophies
 const hoverDescriptions4 = [
-	'Date of event',
-	'Date of event',
-	'Date of event',
-	'Date of event',
-	'Date of event',
-	'Date of event',
+	'Event Date: 2007-2008',
+	'Event Date: 2007-2008',
+	'Event Date: 2007-2008',
+	'Event Date: 2007-2008',
+	'Event Date: 2007',
+	'Event Date: NA',
 ];
 
 // Array information for date of event
 // for NECC/WSC Open Division Robotics
 const hoverDescriptions5 = [
-	'Date of event',
-	'Date of event',
-	'Date of event',
-	'Date of event',
-	'Date of event',
+	'Event Date: 2012-2013',
+	'Event Date: 2012-2013',
+	'Event Date: 2012-2013',
+	'Event Date: 2012-2013',
+	'Event Date: NA',
+	'Event Date: NA',
+	'Event Date: NA',
+	'Event Date: NA',
+	'Event Date: NA',
+	'Event Date: 2012-2013',
+	'Event Date: NA',
+	'Event Date: NA',
 ];
 
 // Array information for date of event
 // for NECC/WSC Robotics Contest
 const hoverDescriptions6 = [
-	'Date of event',
-	'Date of event',
-	'Date of event',
-	'Date of event',
-	'Date of event',
+	'Event Date: 2014-2015',
+	'Event Date: 2014-2015',
+	'Event Date: 2014-2015',
+	'Event Date: 2014-2015',
+	'Event Date: 2012-2013',
+	'Event Date: 2012-2013',
+	'Event Date: 2011-2012',
 ];
 
 // Array information for date of event
 // UPE Chili Cook Off
-const hoverDescriptions7 = ['Date of event', 'Date of event'];
+const hoverDescriptions7 = ['Event Date: 2016', 'Event Date: 2016'];
 
 // Array for overlay infromation for Technology Academies of Northeast
 //Nebraska Robot Competition trophies
@@ -434,37 +470,45 @@ const overlayParagraphs3 = [
 // Array for overlay infromation for
 // Tann Robotics Competition Trophies
 const overlayParagraphs4 = [
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
+	'TANN Robotics Competition for 2007-2008. We won 2nd place. Competition #3.',
+	'TANN Robotics Competition for 2007-2008. We won 2nd place. Competition #2',
+	'TANN Robotics Competition for 2007-2008. We won 2nd place. Competition #1',
+	'TANN Robotics Competition for 2007-2008. We won 3rd place. Competition #2',
+	'TANN Robotics Competition for 2007 Open Division. We won 1st place.',
+	'TANN Academies of Northeast Nebraska Robot. We were Champions.',
 ];
 
 // Array for overlay infromation for
 // NECC/WSC Open Division Robotics
 const overlayParagraphs5 = [
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
+	'2012-2013 NECC/WSC Robotics Open Division. We were Champions.',
+	'2012-2013 NECC/WSC Robotics Open Division. We won 3rd place.',
+	'2012-2013 NECC/WSC Robotics Open Division. We were Champions.',
+	'NECC/WSC Robotics Open Division. We won 2nd place.',
+	'NECC/WSC Robotics Open Division. We won 1st place.',
+	'NECC/WSC Robotics Open Division. We won 1st place.',
+	'NECC/WSC Robotics Open Division. We won 2nd place.',
+	'NECC/WSC Robotics Open Division. We won 3rd place.',
+	'2012-2013 NECC/WSC Robotics Open Division. We won 3rd place.',
+	'NECC/WSC Robotics Open Division. We won 3rd place.',
+	'NECC/WSC Robotics Open Division. We won 2nd place.',
 ];
 // Array for overlay infromation for
 // NECC/WSC Robotics Contest
 const overlayParagraphs6 = [
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
+	'2014-2015 NECC/WSC Robotics contest. We won 3rd place.',
+	'2014-2015 NECC/WSC Robotics contest. We won 1st place.',
+	'2014-2015 NECC/WSC Season Robotics contest.We won 2nd place.',
+	'2014-2015 NECC/WSC Season Robotics contest.We won 3rd place.',
+	'2012-2013 NECC/WSC Robotics.We won 2nd place.',
+	'2012-2013 NECC/WSC Robotics.We won 1st place.',
+	'2011-2012 NECC/WSC Robotics.We were Champions.',
 ];
 // Array for overlay infromation for
 // UPE Chili Cook Off
 const overlayParagraphs7 = [
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
-	'Paragraph 1 for the first image. The was a robotic competition in 2015. We won first place. Regionals',
+	'UPE Chili Cook-Off in 2016. We won 2nd place.',
+	'UPE Chili Cook-Off in 2016. We won 1st place.',
 ];
 
 // Putting it all together in in an object to re-use later

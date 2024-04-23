@@ -327,7 +327,7 @@ div.image-container2-sub-div7 {
 	width: 350px;
 	height: 450px;
 	border-radius: 7px;
-	filter: brightness(90%);
+	object-fit: cover;
 }
 
 /* ANIMATING THE TROPHY CASE IMAGE CONTAINER FOR FADE IN SCROLLER*/
@@ -756,8 +756,6 @@ div.image-container2-sub-div7 {
 		width: 250px;
 		height: 320px;
 		border-radius: 5px;
-		filter: brightness(90%);
-		object-fit: fill;
 	}
 
 	.more-info-link {
@@ -1005,8 +1003,6 @@ div.image-container2-sub-div7 {
 		width: 290px;
 		height: 380px;
 		border-radius: 5px;
-		filter: brightness(90%);
-		object-fit: fill;
 	}
 
 	.more-info-link {
@@ -1250,8 +1246,6 @@ div.image-container2-sub-div7 {
 		width: 260px;
 		height: 360px;
 		border-radius: 5px;
-		filter: brightness(90%);
-		object-fit: fill;
 	}
 
 	/* PAGE NAVIGATIONS AT THE BUTTON OF WEBSITE */
@@ -1475,8 +1469,6 @@ div.image-container2-sub-div7 {
 		width: 280px;
 		height: 360px;
 		border-radius: 5px;
-		filter: brightness(90%);
-		object-fit: fill;
 	}
 
 	/* PAGE NAVIGATIONS AT THE BUTTON OF WEBSITE */
@@ -1631,7 +1623,6 @@ div.image-container2-sub-div7 {
 		width: 500px;
 		height: 300px;
 		border-radius: 10px;
-		object-fit: contain;
 		filter: brightness(90%);
 		margin-right: 5rem;
 	}
@@ -1702,8 +1693,6 @@ div.image-container2-sub-div7 {
 		width: 260px;
 		height: 350px;
 		border-radius: 5px;
-		filter: brightness(90%);
-		object-fit: fill;
 	}
 
 	.more-info-link {
@@ -1872,8 +1861,7 @@ div.image-container2-sub-div7 {
 		width: 500px;
 		height: 300px;
 		border-radius: 10px;
-		object-fit: contain;
-		filter: brightness(90%);
+		object-fit: cover;
 		margin-right: 5rem;
 	}
 
@@ -1943,8 +1931,6 @@ div.image-container2-sub-div7 {
 		width: 200px;
 		height: 290px;
 		border-radius: 5px;
-		filter: brightness(90%);
-		object-fit: fill;
 	}
 
 	.more-info-link {
@@ -2112,8 +2098,6 @@ div.image-container2-sub-div7 {
 		width: 500px;
 		height: 300px;
 		border-radius: 10px;
-		object-fit: contain;
-		filter: brightness(90%);
 		margin-right: 5rem;
 	}
 
@@ -2172,8 +2156,6 @@ div.image-container2-sub-div7 {
 		width: 200px;
 		height: 290px;
 		border-radius: 5px;
-		filter: brightness(90%);
-		object-fit: fill;
 	}
 	.more-info-link {
 		font-size: 1.4rem;
