@@ -1,10 +1,6 @@
 // Imports to allow JS file use the css attributes
 import './style.css';
 
-// Code is connecting the two button in the player button to the men and
-// women div. Botton 1 to men, and botton 2 to women.
-// Initially hides div 2 content which the the womens until its it clicked
-
 document.addEventListener('DOMContentLoaded', () => {
 	// function to toggle visibilty
 	const toggleVisibility = (showClass, hideClass) => {

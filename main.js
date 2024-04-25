@@ -1,4 +1,5 @@
 // Imports to allow JS file use the css attributes
+import './searchbar.js';
 import './style.css';
 
 // Front end view of Technology Academies of Northeast Nebraska
