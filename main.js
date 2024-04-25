@@ -342,23 +342,6 @@ const hoverDescriptions2 = [
 	'Event Date: 2009-2010',
 	'Event Date: NA',
 	'Event Date: NA',
-
-	'NECC/WSC Robotics College Division. 1st Place.',
-	'NECC/WSC Robotics College Division. 2nd place.',
-	'NECC/WSC Robotics College Division. 2nd place.',
-	'NECC/WSC Robotics College Division. 3rd place.',
-	'NECC/WSC Robotics College Division. 3rd place.',
-	'NECC/WSC Robotics College Division. 3rd place.',
-	'NECC/WSC Robotics College Division. 1st place.',
-	'2013-2014 NECC/WSC Robotics College Division. Champions.',
-	'2010-2011 NECC/WSC Robotics College Division. 1st place.',
-	'2010-2011 NECC/WSC Robotics College Division. 3rd place.',
-	'NECC/WSC Robotics College Division. 1st place.',
-	'NECC/WSC Robotics College Division. 1st place.',
-	'2009-2010 NECC/WSC Robotics College Division. 3rd place.',
-	'2009-2010 NECC/WSC Robotics College Division. 1st place.',
-	'NECC/WSC Robotics College Division. 1st place.',
-	'NECC/WSC Robotics College Division. 3rd place.',
 ];
 
 // Array information for date of event
