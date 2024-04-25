@@ -252,6 +252,10 @@ function displayCh(filteredTrophies) {
 			const trophyDiv = document.createElement('div');
 			trophyDiv.id = 'image-container'; // Adjust this to match the original HTML
 
+			// Add margin to the top and bottom of the div
+			trophyDiv.style.marginTop = '14px';
+			trophyDiv.style.marginBottom = '14px';
+
 			// Create a new img element for each trophy
 			const trophyImg = document.createElement('img');
 
